@@ -1,0 +1,1 @@
+This is a project made from the tutorial by Traversy Media on YouTube.

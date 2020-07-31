@@ -1,0 +1,35 @@
+{
+  "name": "story-book",
+  "version": "1.0.0",
+  "description": "App to create public and private stories.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabcodingzest/Story-Book.git"
+  },
+  "author": "Fab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabcodingzest/Story-Book/issues"
+  },
+  "homepage": "https://github.com/fabcodingzest/Story-Book#readme",
+  "dependencies": {
+    "connect-mongo": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "express-handlebars": "^5.1.0",
+    "express-session": "^1.17.1",
+    "method-override": "^3.0.0",
+    "moments": "0.0.2",
+    "mongoose": "^5.9.26",
+    "morgan": "^1.10.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "nodemon": "^2.0.4"
+  }
+}
